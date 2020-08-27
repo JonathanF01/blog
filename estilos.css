@@ -10,3 +10,9 @@ body{
     border: 1px solid #000000;
 
 }
+p{
+    text-align: left;
+    white-space: nowrap;
+    font-size: medium;
+    color: #aabbcc;
+}
